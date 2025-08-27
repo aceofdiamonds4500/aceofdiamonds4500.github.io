@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+}
